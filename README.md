@@ -3,4 +3,4 @@
 CP - Project 2. - SGD Neural Network for simple logical
 operations
 
-For more information read project-documentation.pdf
+For more information read CP Project 2.pdf
